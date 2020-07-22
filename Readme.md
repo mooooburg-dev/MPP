@@ -1,6 +1,6 @@
 # Medit Partener Portal System 
 
-제작 기간 : 2020.04 ~
+제작 기간 : 2020.03 ~
 
 
 
