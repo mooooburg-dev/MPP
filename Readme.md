@@ -6,4 +6,5 @@
 front-end : vue.js framework  
 back-end : spring gradle build 
 
-![image](https://user-images.githubusercontent.com/18201794/88135391-e4a18880-cc21-11ea-80dc-9d35fac84e9d.png)
+![image](https://user-images.githubusercontent.com/18201794/88361919-a8069600-cdb5-11ea-9c7d-963fe15c2591.png)
+
